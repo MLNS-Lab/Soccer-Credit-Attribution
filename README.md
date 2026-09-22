@@ -62,7 +62,7 @@ The visualization below shows a subset alpha matrix produced by the Multivariate
 ### Shot Responsibilities
 Shot responsibilities are derived using the alpha and mu values provided by HawkesTorch. These values determine how credit is distributed across prior passes leading up to a shot. Below is an example from one shot from Munir at 0:35, where the xG = 0.55
 
-| Time | Event | Responsibility | xGI | $\alpha_{ij}$ |
+| Time | Event | Responsibility | xGI | Alpha |
 | :--- | :--- | :---: | :---: | :---: |
 | 0:34 | Neymar Pass to Munir | 0.329 | 0.1810 | 0.0013 |
 | 0:30 | Suárez Pass to Neymar | 0.268 | 0.1474 | 0.0023 |
